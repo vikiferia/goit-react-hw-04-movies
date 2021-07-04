@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Component/ListMovies/ListMovies.module.css","webpack://src/Page/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,wBACI,cACJ,CCFA,uBACI,cACJ","file":"7.8803983f.chunk.css","sourcesContent":[".list {\r\n    font-size: 14px;\r\n}",".Title {\r\n    font-size: 25px;\r\n}"]}
